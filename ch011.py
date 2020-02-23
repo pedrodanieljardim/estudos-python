@@ -1,0 +1,5 @@
+width = float(input("Entry with width of wall: "))
+height = float(input("Entry with height of wall: "))
+area = float(width*height)
+paint = float(area/2)
+print("To paint your wall you will need {:.2f} liters of paint".format(paint))
