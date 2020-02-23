@@ -1,0 +1,5 @@
+print('=======================')
+print('CHALLENGE 1 ')
+print('========================')
+name=input('What you name?  ')
+print('Hello ,',name,' ! I like to meet you!')
