@@ -1,0 +1,9 @@
+# Comentário em python é feito com cerquilha..
+# Python é uma linguagem interpretada ou seja, python é compilado em um compilador de python....
+
+print('Linha 1')
+print('Linha 2')
+print('Linha 3')  # Boa prática para o python é esse tipo de comentário....
+print('Linha 4')
+print('Linha 5')   # Comentário na linha....
+print('Linha 6')
