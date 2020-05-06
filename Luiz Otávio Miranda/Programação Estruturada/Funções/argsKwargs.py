@@ -6,9 +6,10 @@ def func(*args):
 def func2(*args, **kwargs):
     print("Parâmetros: {}".format(args))
     print("Tamanho do Args: {}".format(len(args)))
-    print(kwargs['nome'], kwargs['SobreNome'])
     nome = kwargs.get('Nome')
     print("Nome = {}".format(nome))
+    sobrenome = kwargs.get('SobreNome')
+    print("Nome = {}".format(sobrenome))
 
 
 # args é basicamente uma tupla, que reconhece infinitos parâmetros
