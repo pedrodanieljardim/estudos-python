@@ -6,7 +6,7 @@ print("Hello, World!")
 
 
 ## 🤔  Documentation
-Python language documentation can be found at: https://docs.python.org/3/
+Python language documentation can be found at: https://docs.python.org
 
 ## :memo: About
 Repository about exercise codes, slides, and additional lists of language Python.
