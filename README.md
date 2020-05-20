@@ -1,16 +1,8 @@
-## :computer: First Program in Python 
+## :computer: Primeiro Programa em Python
 
 ```
 print("Hello, World!")
 ```
 
-
-## 🤔  Documentation
-Python language documentation can be found at: https://docs.python.org
-
-## :memo: About
-Repository about exercise codes, slides, and additional lists of language Python.
-
-<h1 align="center">
-    <img src="https://i.imgur.com/KtKBuSQ.png" width="250px" />
-</h1>
+##  Documentation
+A documentação da linguagem Python pode ser encontrada em: https://docs.python.org
